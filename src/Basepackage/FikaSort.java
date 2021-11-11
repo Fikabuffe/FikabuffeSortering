@@ -1,5 +1,5 @@
-public class App {
-    public class FikaSort{
+package Basepackage;
+public class FikaSort{
         public void sort(int[]array) {
             for (var i =1; i < array.length; i++) {
                 var current = array[i];
@@ -9,7 +9,7 @@ public class App {
                     j--;
                 }
                 array[j + 1] = current;
-            }
         }
     }
+
 }
