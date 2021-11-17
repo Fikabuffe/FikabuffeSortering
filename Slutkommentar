@@ -1,0 +1,8 @@
+Kommentarer till lärare:
+
+Det blev tyvärr fel när jag skulle göra commits till main branch från lokala virtuella datorn där allt sparades till en sekundär, "master" branch. 
+Detta ledde till att mycket historik kan ha försvunnit från commits jag har gjort men jag kan sammanfatta det såhär -
+3 olika metoder försökte jag mig på för att få det önskevärda resultatet att kunna exekvera direkt från terminalen, men tyvärr blev det många fel som ledde till att jag 
+koda om programmet helt. 
+I Github ändra jag om så de nyaste commitsen blev den nya defult main branch, och radera den första default main branch jag hade, då det inte gick att merga de två jag hade
+pga de var så olika varandra. (Jag märkte inte att jag ens hade två branches först mot slutet). Blev en "There isn't anything to compare" problem.
