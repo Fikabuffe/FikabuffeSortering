@@ -5,9 +5,9 @@ where you put the downloaded zipped file, which I the creator have no real contr
 
 3. from fikabuffeSortering-main, go into the "src" folder.
 
-4(windows). From "src", type in "java basepackage\Main XXXXXX XXXX -XXX XXX " where the X is any number you wish.
+4. (windows). From "src", type in "java basepackage\Main XXXXXX XXXX -XXX XXX " where the X is any number you wish.
 
-4(linux terminal) from "src", type in "java basepackage/Main XXX XXX XX -XX " where X is any
+4. (linux terminal) from "src", type in "java basepackage/Main XXX XXX XX -XX " where X is any
 number you wish. 
 
 NOTE - As the terminal/cmd window will tell you, you need to have your java updated to run this
