@@ -10,7 +10,7 @@ public class Main {
         }
         int[] sorted = sorter.sort(intArgs);
         for(int number : sorted){
-            System.out.println(number);
+            System.out.print(number);
         }
     }
 }

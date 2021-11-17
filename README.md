@@ -1,18 +1,37 @@
-## Getting Started
+To RUN FILE: 
+1. Run cmd on google or terminal on linux.
+2. Find pathway to the file default named "FikabuffeSortering-main". The file would be 
+where you put the downloaded zipped file, which I the creator have no real control over.
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+3. from fikabuffeSortering-main, go into the "src" folder.
 
-## Folder Structure
+4(windows). From "src", type in "java basepackage\Main XXXXXX XXXX -XXX XXX " where the X is any number you wish.
 
-The workspace contains two folders by default, where:
+4(linux terminal) from "src", type in "java basepackage/Main XXX XXX XX -XX " where X is any
+number you wish. 
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+NOTE - As the terminal/cmd window will tell you, you need to have your java updated to run this
+program.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+Example for navigation windows ->
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+>extract zip file and move it to desktop
 
-## Dependency Management
+>press the windows button and type "cmd" and press enter.
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+> cd Desktop
+> cd FikabuffeSortering-main
+> cd src
+> java basepackage\Main 123 321 3232 -123
+
+output >
+-123
+123
+321
+3232
+or 2:nd output > A JNI error has occurred, please check your installation and try again. . .
+
+If this happens, update your java Runtime.
+The program works best in a linux environment, please try there for best results
+
+ 
